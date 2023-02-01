@@ -13,6 +13,7 @@ Term: Spring 2023
 + This project is conducted by [your name]
 
 + Project summary: 
+
   What did people do in 500 BC? And what about in 2000? Things are totally different in technology, thoughts, environment and many other aspects.
   So, what are philosophers thinking in different times? What's new after thousands of years? What remains unchanged?
 
