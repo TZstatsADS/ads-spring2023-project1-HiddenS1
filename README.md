@@ -1,6 +1,6 @@
 # Applied Data Science @ Columbia
 ## Spring 2023
-## Project 1: A "data story" on the history of philosophy
+## Project 1: The Early VS The Contemporary, ‘female’ VS ‘woman’, ‘male’ VS ‘man’ —— What are Philosophers Thinking?
 
 <img src="figs/100126-the-glass.jpeg" width="500">
 
@@ -12,7 +12,13 @@ Term: Spring 2023
 + Projec title: Lorem ipsum dolor sit amet
 + This project is conducted by [your name]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: What did people do in 500 BC? And what about in 2000? Things are totally different in technology, thoughts, environment and many other aspects.
+So, what are philosophers thinking in different times? What's new after thousands of years? What remains unchanged?
+
+While 'female' and 'woman' are similar in meaning, the word frequency of woman is close to zero before 250 compared with that of female.
+Why would that happen? What's the difference between 'female' and 'woman' in Philosophy in early times? What about 'male' and 'man'?
+
+Answers are hidden in these sentences. And more and more are waiting for us to read and discover!
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
