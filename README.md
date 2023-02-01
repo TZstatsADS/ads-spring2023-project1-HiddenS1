@@ -15,10 +15,10 @@ Term: Spring 2023
 + Project summary: What did people do in 500 BC? And what about in 2000? Things are totally different in technology, thoughts, environment and many other aspects.
 So, what are philosophers thinking in different times? What's new after thousands of years? What remains unchanged?
 
-While 'female' and 'woman' are similar in meaning, the word frequency of woman is close to zero before 250 compared with that of female.
-Why would that happen? What's the difference between 'female' and 'woman' in Philosophy in early times? What about 'male' and 'man'?
+  While 'female' and 'woman' are similar in meaning, the word frequency of woman is close to zero before 250 compared with that of female.
+  Why would that happen? What's the difference between 'female' and 'woman' in Philosophy in early times? What about 'male' and 'man'?
 
-Answers are hidden in these sentences. And more and more are waiting for us to read and discover!
+  Answers are hidden in these sentences. And more and more are waiting for us to read and discover!
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
