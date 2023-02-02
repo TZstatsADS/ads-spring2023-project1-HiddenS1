@@ -9,8 +9,8 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Spring 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: The Early VS The Contemporary, ‘female’ VS ‘woman’, ‘male’ VS ‘man’ —— What are Philosophers Thinking?
++ This project is conducted by Hongyan Zhou
 
 + Project summary: 
 
